@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Vendor-Analytics
+Version: 0.0.1
+Author: Sehwag Lodhi
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist

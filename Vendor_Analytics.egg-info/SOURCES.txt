@@ -1,0 +1,6 @@
+setup.py
+Vendor_Analytics.egg-info/PKG-INFO
+Vendor_Analytics.egg-info/SOURCES.txt
+Vendor_Analytics.egg-info/dependency_links.txt
+Vendor_Analytics.egg-info/requires.txt
+Vendor_Analytics.egg-info/top_level.txt
