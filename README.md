@@ -54,5 +54,5 @@ This analysis uncovers key business patterns across sales transactions from mult
 ## Files in this Repo
 
 - `analysis.py`: Python script for data cleaning & analysis
-- `vendor_data.db`: SQLite database
+- `vendor.db`: SQLite database
 - `README.md`: Project explanation
